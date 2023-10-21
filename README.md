@@ -1,0 +1,2 @@
+# Peer-Peer-File-transfer-and-communication-with-Laptop-hotspot-
+I am starting this Repository due the struggle i go through trying to send large files from my laptop to another and no ethernet available, This tool will enable tranfer of files and real time communication with Java, i was thinking of using C++ but java seems to have a in rich libraries, Anyone bug fix contribution will be highly  appreciatiated
