@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TransproApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TransproApplication.class, args);
+		System.out.println(1);
 	}
 
 }
