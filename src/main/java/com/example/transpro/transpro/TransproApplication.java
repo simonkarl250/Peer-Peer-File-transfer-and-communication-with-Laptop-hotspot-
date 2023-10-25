@@ -45,6 +45,7 @@ public class TransproApplication {
                 System.out.println("Received data from client: " + data);
 
                 // Process the received data or respond to the client as needed
+                //the data maybe video type text type application etc or simply lets have a file system here
 
                 // Close the socket and the reader
                 clientSocket.close();
